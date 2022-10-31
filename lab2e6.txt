@@ -1,0 +1,32 @@
+git 배움
+
+What is Version Control System?
+• A system that records changes to the files over time
+
+What is Git?
+• A distributed control system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
